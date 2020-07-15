@@ -1,0 +1,1 @@
+These scripts require a specifically formatted folder called req-files which includes everything that is needed to run these (besides required packages, such as Java 8.0 and R).
